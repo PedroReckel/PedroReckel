@@ -1,5 +1,5 @@
 ## 👋 Olá! Bem vindo(a) ao meu perfil do GitHub.
-### Meu nome é Pedro Reckel Roberte e meu apelido é "Bee Movie"!
+### Meu nome é Pedro Reckel Roberte!
 
 - 🔭 Atualmente estou trabalhando no Grupo SEI como Auxiliar de Programação.
 - 🌱 Atualmente estou aprendendo desenvolvimento WEB com JavaScript .
