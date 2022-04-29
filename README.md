@@ -1,7 +1,7 @@
 ## 👋 Olá! Bem vindo(a) ao meu perfil do GitHub.
 ### Meu nome é Pedro Reckel Roberte!
 
-- 🔭 Atualmente estou trabalhando no Grupo SEI como Técnico de Programação.
+- 🔭 Atualmente estou trabalhando no Grupo SEI como Técnico em Programação.
 - 🌱 Atualmente estou aprendendo desenvolvimento WEB com JavaScript .
 - 💬 Pergunte-me sobre HTML e CSS
 - 📫 Como entrar em contato comigo: pedroreckel90@gmail.com / https://www.linkedin.com/in/pedro-reckel-roberte-063b5a216/
