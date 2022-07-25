@@ -1,9 +1,9 @@
 ## 👋 Hello there, I'm Pedro 
 
-- 🔭 I am currently working at the SEI Group as a Programming Technician.
+- 🔭 I'm currently working at the SEI Group as a Programming Technician.
 - 🌱 I'm currently focusing on web development with JavaScript.
 - 📫 How to contact me: pedroreckel90@gmail.com / https://www.linkedin.com/in/pedro-reckel-roberte-063b5a216/
-- ⚡ Curiosity: I am a student of Information Systems and I am already in the 6th period.
+- ⚡ Curiosity: I'm a student of Information Systems and I am already in the 6th period.
 
 ### Programming Languages and Tools:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> <img
