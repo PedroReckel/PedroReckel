@@ -1,6 +1,6 @@
 ## 👋 Hello there, I'm Pedro 
 
-- 🔭 I'm currently working at the SEI Group as a Programming Technician.
+- 🔭 I'm currently working at the EL Software Productions as a Programming Technician.
 - 🌱 I'm currently focusing on web development with JavaScript.
 - 📫 How to contact me: pedroreckel90@gmail.com / https://www.linkedin.com/in/pedro-reckel-roberte-063b5a216/
 - ⚡ Curiosity: I'm a student of Information Systems and I am already in the 8th period.
