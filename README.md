@@ -1,6 +1,6 @@
 ## 👋 Hello there, I'm Pedro 
 
-- 🔭 I'm currently working at the EL Software Productions as a Programming Technician.
+- 🔭 I'm currently working at the EL Software Productions as a Software Engineer.
 - 🌱 I'm currently focusing on web development with JavaScript.
 - 📫 How to contact me: pedroreckel90@gmail.com / https://www.linkedin.com/in/pedro-reckel-roberte-063b5a216/
 - ⚡ Curiosity: I have a degree in computer science.
